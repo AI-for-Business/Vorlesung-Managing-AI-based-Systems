@@ -33,6 +33,9 @@ Cite as:\
 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt),
 via https://github.com/AI-for-Business/Vorlesung-Managing-AI-based-Systems*
 
+# DOI - Code
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15649977.svg)](https://doi.org/10.5281/zenodo.15649977)
+
 # Contact / About us
 * You can find all of our repositories [here](https://github.com/orgs/AI-for-Business/repositories).
 * You can find the homepage of the project ABBA: **A**I for **B**usiness | **B**usiness for **A**I
